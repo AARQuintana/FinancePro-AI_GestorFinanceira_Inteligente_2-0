@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FinancePro AI - Gestão Financeira Inteligente",
+  "description": "Uma plataforma robusta para controle de contas a pagar, receber, fluxo de caixa e análise de clientes com insights gerados por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
